@@ -106,5 +106,5 @@ Top 5 most influential features in diagnosing mastitis stage:
 >
 > While this synthetic pipeline accurately preserves group marginals, covariance structure, and realistic biological noise:
 > 1. Real dairy operations exhibit complex unobserved confounders (e.g., quarter-level variations, pathogen species like *S. aureus* vs *E. coli*, milking hygiene, herd genetics).
-> 2. This model serves as an algorithmic benchmark and end-to-end ML proof-of-concept.
+> 2. This model serves as an algorithmic benchmark and end-to-end ML proof-of-concept
 > 3. **Validation and recalibration on prospective real-world farm or automated milking system (AMS) data are strictly required prior to veterinary or clinical diagnostic deployment.**
