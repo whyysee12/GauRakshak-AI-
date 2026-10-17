@@ -70,7 +70,7 @@ Dual-labeled with plain agricultural terminology so farmers instantly know what 
 
 ---
 
-## 🏗️ System Architecture
+### 🏗️ System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
