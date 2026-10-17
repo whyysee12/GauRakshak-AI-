@@ -1,5 +1,5 @@
 """
-main.py - Master Unified Pipeline Runner for SIH26019
+main.py - Master Unified Pipeline Runner for 
 Bovine Mastitis Early Forecasting & Diagnostic AI Engine
 """
 
