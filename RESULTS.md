@@ -30,7 +30,7 @@ To faithfully replicate these biological co-dependencies:
 ### Realistic Variance Calibration (Step 7 Feedback Loop)
 In the raw published study tables, group means for Healthy, Subclinical, and Clinical stages were widely separated while the reported standard errors/SDs were very small ($SD \approx 0.05 - 0.2$). As a result:
 - **Baseline Uncalibrated Data (Noise $\times 1.0$)**: The 3 classes exhibited zero distribution overlap. Baseline models achieved an **artificially perfect 100.0% test accuracy**, which is medically unrealistic and would fail to generalize to actual herd environments.
-- **Calibrated Realistic Data (Noise Multiplier $= 18.0$)**: In accordance with Step 7 instructions, realistic biological within-herd variation and measurement dispersion were calibrated. This induced realistic boundary overlap between subclinical and early clinical/borderline cases, driving model accuracy to the target **believable $\approx 80\%$ benchmark** (81.03%).
+- **Calibrated Realistic Data (Noise Multiplier $= 18.0$)**: In accordance with Step 7 instructions, realistic biological within-herd variation and measurement dispersion were calibrated. This induced realistic boundary overlap between subclinical and early clinical/borderline cases, driving model accuracy to the target **believable $\approx 80\%$ benchmark** (81.03%)
 
 ---
 
