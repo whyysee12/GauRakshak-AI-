@@ -99,7 +99,7 @@ Top 5 most influential features in diagnosing mastitis stage:
 
 ---
 
-## 6. Critical Methodological Caveats & Clinical Limitations
+## 6. Critical Methodological Caveats & Clinical Limitation
 
 > [!CAUTION]
 > **Synthetic Data Disclaimer**: This classification engine was trained strictly on synthetic data reconstructed from published group summary statistics (mean $\pm$ SD), not on primary longitudinal records of individual dairy cows. 
