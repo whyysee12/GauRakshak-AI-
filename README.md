@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-**GauRakshak AI** is an end-to-end, rural-first veterinary intelligence platform engineered to detect and categorize **Bovine Mastitis** (थनैल रोग) in dairy cattle before milk reaches the bulk tank. 
+**GauRakshak AI** is an end-to-end, rural-first veterinary intelligence platform engineered to detect and categorize **Bovine Mastitis** (थनैल रोग) in dairy cattle before milk reach the bulk tanks. 
 
 By marrying a calibrated **Random Forest machine learning model** with a **low-literacy, high-accessibility interface**, GauRakshak AI empowers both smallholder dairy farmers and commercial herd managers to conduct instant, non-invasive health checks using physiological milk biomarkers (**pH**, **Electrical Conductivity [EC]**, and **Somatic Cell Count [SCC]**).
 
